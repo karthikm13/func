@@ -1,2 +1,2 @@
-func
-====
+func is fun connective!
+=======================

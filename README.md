@@ -1,2 +1,2 @@
-func is fun connective!
+func is fun in the air!
 =======================
